@@ -3,5 +3,6 @@
 <title>Лаборатоная работа 1</title>
 </head>
 <body>
+<div class="name"></div>
 </body>
 </html>
