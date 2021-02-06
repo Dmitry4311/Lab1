@@ -5,5 +5,6 @@
 <body>
 <div class="name"><h1>Лабораторная работа 1</h1></div>
 <div class="ver"><h2>Лабораторная работа 2</h2></div>
+<div class="programma"><h3>Python</h3></div>
 </body>
 </html>
