@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>Лаборатоная работа 1</title>
+</head>
+<body>
+</body>
+</html>
